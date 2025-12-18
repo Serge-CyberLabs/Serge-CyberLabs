@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I’m Serge 👋
 
-<!--
-**Serge-CyberLabs/Serge-CyberLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an IT and cybersecurity professional with a CompTIA A+ certification,
+currently working toward Network+ and Security+.
 
-Here are some ideas to get you started:
+This GitHub serves as a living portfolio documenting my hands-on learning,
+scripting projects, and lab work as I continue building practical,
+real-world skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Certifications
+- CompTIA A+ (Certified)
+- CompTIA Network+ (In Progress)
+- CompTIA Security+ (In Progress)
+
+## 🔧 Technical Focus Areas
+- IT support and troubleshooting
+- Networking fundamentals
+- Security concepts and best practices
+- Python and Bash scripting
+- Automation mindset for IT & security workflows
+
+## 📂 Featured Projects
+This profile includes:
+- Python-based learning tools and scripts
+- Automation and scripting fundamentals
+- Virtual lab environments (Windows & Linux)
+- IT documentation and checklists
+
+Each repository includes a clear README explaining the problem, approach,
+and what I learned.
+
+## 🎯 Professional Goals
+- Build a strong foundation in IT and networking
+- Transition into cybersecurity-focused roles
+- Gain hands-on experience through labs and automation
+- Eventually provide freelance IT and security services
+
+## 📌 Values
+I value clarity, integrity, and continuous improvement. I believe technology
+should be used responsibly, thoughtfully, and with purpose.
+
+---
+
+📬 *Projects are actively updated as I continue learning.*
