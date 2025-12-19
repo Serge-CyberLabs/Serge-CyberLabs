@@ -41,26 +41,18 @@ should be used responsibly, thoughtfully, and with purpose.
 
 ---
 
-📬 *Projects are actively updated as I continue learning.*
+## 🧪 Featured Learning Projects
+
+### 📘 Bash on the Go
+Learning Bash and Linux fundamentals using iSH (Alpine Linux) in small, daily moments.
+
+- Real scripts rebuilt line by line
+- Practiced on iOS using a terminal app
+- Focused on understanding *why*, not memorization
+
+👉 **Explore the project:**  
+https://github.com/Serge-CyberLabs/Bash-on-the-go
 
 ---
 
-## 🚀 Start Here
-
-When I began learning Bash, I didn’t try to memorize commands or copy scripts blindly.
-
-Instead, I rebuilt very simple scripts **line by line** and asked questions at every step:
-
-- What is this line?
-- Why is it here?
-- What happens if I remove it?
-- What breaks if I change it?
-
-If I didn’t understand something, I looked it up (Google, ChatGPT, docs), then came back and rebuilt the script from scratch.
-
-This approach helped me understand **how scripts actually work**, not just what they output.
-
-If you’re new, I recommend starting with:
-- [Understanding a Simple Bash Script Skeleton](notes/script_skeleton.md)
-
-Use it as a reference, rebuild it by hand, and don’t rush.
+📬 *Projects are actively updated as I continue learning.*
